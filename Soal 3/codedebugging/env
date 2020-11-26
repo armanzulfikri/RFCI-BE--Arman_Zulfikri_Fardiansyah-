@@ -1,0 +1,6 @@
+NODE_ENV=development
+PORT=3000
+CLIENT_ID=738977007022-k8mlejo1ebe9c75k8o6nvk4js8d2v167.apps.googleusercontent.com
+CLIENT_SECRET=rFRrPil30z318b5HYpstWmoz
+OAUTH_URL=
+API_URL=
